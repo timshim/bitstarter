@@ -1,7 +1,7 @@
 {
-  "name": "node-js-sample",
-  "version": "0.0.2",
-  "description": "a sample node.js app for heroku",
+  "name": "Bitstarter",
+  "version": "0.0.1",
+  "description": "Bitstarter",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,13 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/timshim/bitstarter"
   },
   "keywords": [
     "node",
     "heroku"
   ],
-  "author": "Mark Pundsack",
+  "author": "Tim Shim",
   "license": "BSD",
   "gitHead": "90fd58e343c29e54fc1d4e19036595500b2bdc21"
 }
